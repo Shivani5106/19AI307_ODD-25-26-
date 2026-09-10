@@ -22,7 +22,7 @@ To write a Java program that demonstrates how primitive data is passed by value 
 
 
 ## PROGRAM:
-### Program to Implement Variables and Operators Using Java
+### Program to Implement Methods Using Java
 
 **Developed by:** SHIVANI M
 
