@@ -1,64 +1,66 @@
 # Ex.No:1(C) LOOPING STATEMENT
 
 ## QUESTION:
-Construct a right-angled triangle star pattern using for loop.
+Print Hollow Square Pattern
+
 ## AIM:
-To write a Java program using looping statements to print a right-angled triangle star pattern based on user input.
+To write a Java program to print a hollow square pattern using asterisks (*).
 
 ## ALGORITHM :
-1.	Start the program.
+1.Start the program and create a Scanner object.
 
-2.	Import the necessary package 'java.util'
+2.Read an integer n representing the size of the square.
 
-3. Read the number of rows from the user.
+3.Use nested loops to iterate through rows (i) and columns (j).
 
-4. Use an outer loop to iterate through each row.
+4.Print * for boundary positions (first/last row or column), else print space.
 
-5. Use an inner loop to print stars (*) for each row.
+5.End the program.
 
-6. Move to the next line after printing stars for each row.
 
-7. End the program.
 
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Looping Statement using Java
-Developed by: SHIVANI M
-RegisterNumber: 212224040313
-*/
-```
 
-## SOURCE CODE:
+### Program to Implement Variables and Operators Using Java
 
-```
-import java.util.*;
-public class TrianglePattern
-{
-    public static void main(String args[])
-    {
-        Scanner sc=new Scanner(System.in);
-        int n=sc.nextInt();
-        for (int i = 1; i <= n; i++) 
-        {         
-            for (int j = 1; j <= i; j++) 
-            {      
-                System.out.print("* ");
+**Developed by:** SHIVANI M
+
+**Register Number:** 212224040313
+
+### SOURCE CODE:
+```java
+import java.util.Scanner;
+
+public class HollowSquare {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= n; j++) {
+                if (i == 1 || i == n || j == 1 || j == n) {
+                    System.out.print("* ");
+                } else {
+                    System.out.print("  ");
+                }
             }
-            System.out.println();              
+            System.out.println();
         }
+
+        sc.close();
     }
 }
 ```
 
-
-
-
 ## OUTPUT:
-<img width="399" height="395" alt="image" src="https://github.com/user-attachments/assets/07286d0c-5174-4702-8d58-34b630bd23d6" />
+<img width="1211" height="654" alt="image" src="https://github.com/user-attachments/assets/983aaead-17af-41d8-ba15-73b241800145" />
 
 
 
 ## RESULT:
-Thus, the Java program using looping statements to print a right-angled triangle star pattern was successfully written, executed, and verified.
+The program successfully prints a hollow square pattern of size n × n.
+
+
+
+
