@@ -19,7 +19,7 @@ To write a Java program that replaces all spaces in a given string with hyphens 
 
 
 ## PROGRAM:
-### Program to Implement Variables and Operators Using Java
+### Program to Implement String and Math functions Using Java
 
 **Developed by:** SHIVANI M
 
