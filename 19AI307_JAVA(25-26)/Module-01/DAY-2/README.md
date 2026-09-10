@@ -34,7 +34,7 @@ To write a Java program that determines whether using stairs or an elevator is f
 
 
 ## PROGRAM:
-### Program to Implement Variables and Operators Using Java
+### Program to Conditional Statements Using Java
 
 **Developed by:** SHIVANI M
 
