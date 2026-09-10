@@ -48,7 +48,7 @@ public class Main {
             Circle c = new Circle(radius);  // constructor calculates & prints area
         }
 
-        // Do not close Scanner in online judges (prevents hidden test failures)
+      ]
     }
 }
 
