@@ -20,7 +20,7 @@ To define a Java class Teacher with attributes name, subject, and experience.
 
 
 ## PROGRAM:
-### Program to Implement Variables and Operators Using Java
+### Program to Implement Class and Object Using Java
 
 **Developed by:** SHIVANI M
 
