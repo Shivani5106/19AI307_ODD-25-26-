@@ -19,16 +19,16 @@ To write a Java program that finds the index position of a specified element fro
 10. Stop the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Array concept using Java
-Developed by: SHIVANI M
-RegisterNumber: 212224040313 
-*/
-```
+
+### Program to implement a Array concept using Java
+**Developed by:** SHIVANI M
+
+**RegisterNumber:** 212224040313
+
+
 
 ## SOURCE CODE:
-```
+```java
 import java.util.*;
 public class Main
 {
