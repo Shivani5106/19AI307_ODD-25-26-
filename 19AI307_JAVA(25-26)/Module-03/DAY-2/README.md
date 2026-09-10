@@ -15,7 +15,7 @@ To write a Java program that demonstrates method overriding using inheritance an
 
 
 ## PROGRAM:
-### Program to Implement Variables and Operators Using Java
+### Program to Implement Polymorphism Using Java
 
 **Developed by:** SHIVANI M
 
