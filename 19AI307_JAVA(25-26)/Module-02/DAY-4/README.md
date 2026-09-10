@@ -19,7 +19,7 @@ To write a Java program that defines a class Circle and uses a constructor to ca
 
 
 ## PROGRAM:
-### Program to Implement Variables and Operators Using Java
+### Program to Implement Variable Scope and Constructor Using Java
 
 **Developed by:** SHIVANI M
 
