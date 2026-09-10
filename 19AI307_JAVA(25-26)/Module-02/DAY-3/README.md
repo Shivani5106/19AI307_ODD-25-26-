@@ -22,7 +22,7 @@ To write a Java program that defines a class Person with private variables and p
 
 
 ## PROGRAM:
-### Program to Implement Variables and Operators Using Java
+### Program to Implement Access Specifiers Using Java
 
 **Developed by:** SHIVANI M
 
