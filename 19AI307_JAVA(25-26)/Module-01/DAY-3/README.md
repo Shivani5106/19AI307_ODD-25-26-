@@ -22,7 +22,7 @@ To write a Java program to print a hollow square pattern using asterisks (*).
 
 ## PROGRAM:
 
-### Program to Implement Variables and Operators Using Java
+### Program to Looping Statement Using Java
 
 **Developed by:** SHIVANI M
 
